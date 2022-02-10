@@ -1,0 +1,3 @@
+Przesuw w osi X	500 mm
+Przesuw w osi Y	420 mm
+Przesuw w osi Z	500 mm
